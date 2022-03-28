@@ -1,6 +1,6 @@
 # Hello, I'm Corentin !
 
-### A back-end developer from brest
+### A full-stack Js developer from brest
 
 [![image](https://user-images.githubusercontent.com/85946194/160118560-4d97aba9-86c1-4255-a1ac-f2e4a4e1aee9.png)](https://www.linkedin.com/in/corentin-kertesz/)
 [![image](https://user-images.githubusercontent.com/85946194/160121132-f36baf0e-8fe2-4e44-be00-b67c1184792e.png)](mailto:kertesz.corentin@hotmail.com)
